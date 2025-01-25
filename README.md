@@ -1,16 +1,6 @@
-# table
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+这个项目用flutter实现了一个类似于小爱课程表 已经实现的功能 
+✅基本的课程显示 
+✅时间日期等的基本设置 
+❌添加课程 
+❌修改课程
+![image](https://github.com/user-attachments/assets/4c95d209-c6e8-47bb-984a-4ccd7226477e)
